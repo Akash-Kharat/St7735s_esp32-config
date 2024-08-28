@@ -1,0 +1,14 @@
+1 NC
+2 GND      --> GND
+3 LED-K    --> GND
+4 LED-A    --> 3.3V / PWM
+5 GND      --> GND
+6 RESET    --> 4
+7 DC       --> 2
+8 SDA /MOSI--> 23
+9 SCL /CLK --> 18
+10 VDD     --> 3.3V
+11 VDDI    --> 3.3V
+12 CSX     --> (X) NOT REQUIRED 5
+13 GND     --> GND
+14 NC
